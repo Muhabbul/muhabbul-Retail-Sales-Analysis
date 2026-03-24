@@ -5,6 +5,15 @@ Aspiring BI Analyst | SQL & Data Visualization Specialist
 📊 Project Overview
 
 This project analyzes a complex customer dataset to identify high-value segments and predict churn risk. By evaluating demographics, credit history, and spending patterns, I developed an Excel-based reporting system to help the business reduce customer loss and optimize marketing spend.
+
+Project Title: Customer Analytics & Churn Prediction.
+
+Key Highlights: * Identifying "VIP" spenders (Spending Score > 80).
+
+    Predicting "Churn Risk" (Credit Score < 600 + High Loans).
+
+    Optimizing Marketing ROI for seasonality.
+
 🛠️ Technical Toolkit
 
     Excel: Advanced Pivot Tables, VLOOKUP/XLOOKUP, and Conditional Formatting for risk flagging.
