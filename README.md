@@ -46,3 +46,5 @@ The analysis was performed on a multi-dimensional dataset including:
 
 (Insert a screenshot of your Excel Charts or Pivot Tables here)
 ![Customer Risk Dashboard](your_image_link_here)
+![Dashboard](Full_DB)
+
