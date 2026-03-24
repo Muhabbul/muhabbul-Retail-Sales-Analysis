@@ -7,7 +7,7 @@ Aspiring BI Analyst | SQL & Data Visualization Specialist
     them more effectively.
 
 
-    🌱 Learning: Advanced DAX and SQL Window Functions.
+    🌱 Learning: Advanced DAX and SQL Window Functions, Using Power BI to for Visualisation
 
     💬 Ask me about: My recent "Tesco-style" Sales Analysis project.
 
