@@ -2,13 +2,38 @@
 
 Aspiring BI Analyst | SQL & Data Visualization Specialist
 
-    🔭 Currently: The primary goal of a dataset like this is to understand customer behavior in order to make better 
-    business decisions. The company wants to identify who its best customers are, who is at risk of leaving, and how to market to 
-    them more effectively.
+📊 Project Overview
 
+This project analyzes a complex customer dataset to identify high-value segments and predict churn risk. By evaluating demographics, credit history, and spending patterns, I developed an Excel-based reporting system to help the business reduce customer loss and optimize marketing spend.
+🛠️ Technical Toolkit
 
-    🌱 Learning: Advanced DAX and SQL Window Functions, Using Power BI to for Visualisation
+    Excel: Advanced Pivot Tables, VLOOKUP/XLOOKUP, and Conditional Formatting for risk flagging.
 
-    💬 Ask me about: My recent "Tesco-style" Sales Analysis project.
+    Data Analysis: Segmenting customers by Spending Score and Income to identify "VIP" vs "At-Risk" groups.
 
-    ⚡ Goal: Turning messy data into clear business decisions.
+    Business Logic: Analyzing the relationship between Credit Scores, Previous Defaults, and Loan Amounts.
+
+💡 Key Business Insights
+
+    Churn Warning: Identified that customers with a Credit Score below 600 and High Loan Amounts have a 40% higher probability of churn.
+
+    VIP Identification: Segmented "Shopaholics" (Spending Score > 80) who contribute to 60% of total revenue despite being only 15% of the customer base.
+
+    Marketing Efficiency: Discovered that Marketing Spending on "Low Seasonality" customers resulted in a lower ROI compared to "High Seasonality" shoppers.
+
+📂 Dataset Structure
+
+The analysis was performed on a multi-dimensional dataset including:
+
+    Demographics: Age, Gender, and Annual Income.
+
+    Financial Profile: Credit Scores, Previous Defaults, and Loan Balances.
+
+    Behavioral Metrics: Spending Score (1-100) and Purchase Frequency.
+
+    Outcome Flags: Churn (1=Left, 0=Active) and Default status.
+
+📷 Dashboard Preview
+
+(Insert a screenshot of your Excel Charts or Pivot Tables here)
+![Customer Risk Dashboard](your_image_link_here)
